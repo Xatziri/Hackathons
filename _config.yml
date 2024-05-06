@@ -1,0 +1,7 @@
+exclude:
+  - readme.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+include:
+  - _layouts
